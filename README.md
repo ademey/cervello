@@ -2,7 +2,11 @@
 
 Cervello is an acrylic keyboard case for Neuron and Schwann PCBs. The case is designed around the original Neuron plate profile, as a drop in for extra built PCBs.
 
-![Cervello Ortho](/assets/cervello-ortho.jpg)
+![Cervello Ortho](/assets/cervello-yellow.jpg)
+
+## Warning
+
+The current case outlines need an update. The feet screws can contact the usb connector. A v2 update has been made, this repo just needs an update.
 
 ## BOM
 
